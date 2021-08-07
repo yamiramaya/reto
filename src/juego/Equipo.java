@@ -7,7 +7,7 @@ package juego;
 
 /**
  *
- * @author halos
+ * @author YAMIR AMAYA
  */
 public class Equipo extends Jugador {
     
